@@ -1,0 +1,8 @@
+/home/codespace/os-lab/build/CMakeFiles/fork_demo.dir
+/home/codespace/os-lab/build/CMakeFiles/exec_demo.dir
+/home/codespace/os-lab/build/CMakeFiles/pipe_demo.dir
+/home/codespace/os-lab/build/CMakeFiles/pipeline_demo.dir
+/home/codespace/os-lab/build/CMakeFiles/zombie_demo.dir
+/home/codespace/os-lab/build/CMakeFiles/exec_family_demo.dir
+/home/codespace/os-lab/build/CMakeFiles/edit_cache.dir
+/home/codespace/os-lab/build/CMakeFiles/rebuild_cache.dir
